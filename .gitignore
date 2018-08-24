@@ -40,6 +40,6 @@ config/*
 /static/icons-pokemon/
 /static/sprites-pokemon/
 package-lock.json
-index.php
+# index.php
 .DS_Store
 static/.DS_Store
